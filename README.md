@@ -15,16 +15,40 @@ Each unit folder contains original work, tutor feedback, and supporting evidence
 
 ---
 
-## 📂 Folder Overview
+## 📂 Folder Overview Evidence
+📚 Research Methods and Professional Practice – e-Portfolio Navigation
 
-| Folder | Content Summary |
-|--------|-----------------|
-| `/unit01/` | Malware Disruption ethics reflection + Collaborative Discussion 1 |
-| `/unit02_03/` | Literature Review and Research Proposal drafts (Quantitative & Qualitative) |
-| `/unit04_05/` | Privacy case study + Survey misuse reflections (Cambridge Analytica, TikTok, Google Street View) |
-| `/unit07_09/` | Inferential statistics, data visualisation, and validity worksheets |
-| `/unit11/` | Professional Skills Matrix, SWOT analysis, and SMART Action Plan |
-| `/unit12/` | Self Test Quiz ,Final Reflective Piece (PDF) and compiled e-Portfolio |
+This table provides direct access to every artefact across Units 1–12.  
+Each link opens the corresponding Markdown or uploaded evidence file in this repository.
+
+| Unit | Title / Activity | Link |
+|------|------------------|------|
+| **1** | Initial Ethical Discussion – Summary Post | [unit01/Summary Post.jpg](unit01/Summary%20Post.jpg) |
+|  | Initial Post | [unit01/Initial Post.jpg](unit01/Initial%20Post.jpg) |
+|  | Peer Reply Initial Post | [unit01/Peer reply Initial Post.jpg](unit01/Peer%20reply%20Initial%20Post.jpg) |
+| **2–3** | Literature Review Outline | [unit02_03/Literature Review Outline.md](unit02_03/Literature%20Review%20Outline.md) |
+| **4–5** | Literature Review Outline (image evidence) | [unit04_05/Literature Review Outline.jpg](unit04_05/Literature%20Review%20Outline.jpg) |
+|  | Privacy Case Study | [unit04_05/Privcy case study .md](unit04_05/Privcy%20case%20study%20.md) |
+|  | Questionnaire Analysis Critique | [unit04_05/Questionnaire Analysis Critique ...md](unit04_05/Questionnaire%20Analysis%20Critique%20...md) |
+|  | Questionnaires | [unit04_05/Questionnaires.md](unit04_05/Questionnaires.md) |
+| **7–9** | Unit 7 – Inferential Statistics and Hypothesis Testing | [unit07_09/Unit7_Inferential_Statistics_and_....docx](unit07_09/Unit7_Inferential_Statistics_and_....docx) |
+|  | Unit 8 – Data Analysis and Visualisation | [unit07_09/Unit8_Data_Analysis_and_Visual....docx](unit07_09/Unit8_Data_Analysis_and_Visual....docx) |
+|  | Unit 9 – Validity and Generalisability | [unit07_09/Unit9_Validity_and_Generalisabi....docx](unit07_09/Unit9_Validity_and_Generalisabi....docx) |
+| **11** | Professional Skills Matrix + SWOT + Action Plan | [unit11/Professional Skills Matrix.pdf](unit11/Professional%20Skills%20Matrix.pdf) |
+| **12** | Self-Test Quiz (Screenshot Evidence) | [unit12/Self Test Quiz.jpg](unit12/Self%20Test%20Quiz.jpg) |
+|  | Final e-Portfolio Narrative | [unit12/e-Portfolio.md](unit12/e-Portfolio.md) |
+
+---
+
+### 🔗 Quick Navigation Tips
+- Click any file name to open it directly in GitHub.
+- Use your browser’s **Back** button to return to this index.
+- Each Unit file contains local cross-links (← Previous / Next →) for sequential navigation.
+
+---
+
+
+
 
 ---
 
@@ -38,5 +62,5 @@ Each unit folder contains original work, tutor feedback, and supporting evidence
 ---
 
 ## 🔗 Evidence References
-Examples of cross-referencing within documents:
+Examples of cross-referencing within documents: check all Folders
 
