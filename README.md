@@ -3,7 +3,7 @@
 **Institution:** University of Essex Online  
 **Programme:** MSc Cyber Security  
 **Module:** Research Methods and Professional Practice  
-**Period:** 2025  
+ 
 
 ---
 
