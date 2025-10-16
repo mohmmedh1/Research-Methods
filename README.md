@@ -16,8 +16,7 @@ Each unit folder contains original work, tutor feedback, and supporting evidence
 ---
 
 ## 📂 Folder Overview Evidence
-
-# 📚 Research Methods and Professional Practice – e-Portfolio Navigation
+📚 Research Methods and Professional Practice – e-Portfolio Navigation
 
 This table provides direct access to every artefact across Units 1–12.  
 Each link opens the corresponding Markdown or uploaded evidence file in this repository.
