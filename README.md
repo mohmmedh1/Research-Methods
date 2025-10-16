@@ -17,14 +17,17 @@ Each unit folder contains original work, tutor feedback, and supporting evidence
 
 ## 📂 Folder Overview Evidence
 
-| Folder | Content Summary |
-|--------|-----------------|
-| `/unit01/` | Malware Disruption ethics reflection + Collaborative Discussion 1 |
-| `/unit02_03/` | Literature Review and Research Proposal drafts (Quantitative & Qualitative) |
-| `/unit04_05/` | Privacy case study + Survey misuse reflections (Cambridge Analytica, TikTok, Google Street View) |
-| `/unit07_09/` | Inferential statistics, data visualisation, and validity worksheets |
-| `/unit11/` | Professional Skills Matrix, SWOT analysis, and SMART Action Plan |
-| `/unit12/` | Self Test Quiz and e-Portfolio |
+## 📂 Quick Navigation
+
+| Unit | Title | Link |
+|------|--------|------|
+| 1 | Initial Ethical Discussion | [unit01/Summary Post.jpg](unit01/Summary%20Post.jpg) |
+| 2–3 | Literature Review Outline | [unit02_03/Literature Review Outline.md](unit02_03/Literature%20Review%20Outline.md) |
+| 4–5 | Privacy & Questionnaire Analysis | [unit04_05/Privacy case study.md](unit04_05/Privcy%20case%20study.md) |
+| 7–9 | Statistical Analysis Worksheets | [unit07_09/Unit9_Validity_and_Generalisabi...md](unit07_09/Unit9_Validity_and_Generalisabi...md) |
+| 11 | Professional Skills Matrix | [unit11/Professional Skills Matrix.pdf](unit11/Professional%20Skills%20Matrix.pdf) |
+| 12 | Final e-Portfolio | [unit12/e-Portfolio.md](unit12/e-Portfolio.md) |
+
 
 ---
 
