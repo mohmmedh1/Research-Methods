@@ -59,7 +59,7 @@ The adoption of cloud computing in higher education is accelerating, driven by d
 
 ---
 
-## 6. Research Questions (Refined as per Tutor Feedback)
+## 6. Research Questions 
 
 1. What are the predominant cloud security risks facing higher education institutions?
 2. How do governance and compliance frameworks (e.g., GDPR, NESA) influence cloud risk management in HEIs?
