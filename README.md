@@ -36,7 +36,7 @@ Each link opens the corresponding Markdown or uploaded evidence file in this rep
 |  | Unit 9 – Validity and Generalisability | [unit07_09/Unit9_Validity_and_Generalisabi....docx](unit07_09/Unit9_Validity_and_Generalisabi....docx) |
 | **11** | Professional Skills Matrix + SWOT + Action Plan | [unit11/Professional Skills Matrix.pdf](unit11/Professional%20Skills%20Matrix.pdf) |
 | **12** | Self-Test Quiz (Screenshot Evidence) | [unit12/Self Test Quiz.jpg](unit12/Self%20Test%20Quiz.jpg) |
-|  | Final e-Portfolio Narrative | [unit12/e-Portfolio.md](unit12/e-Portfolio.md) |
+|  | Final e-Portfolio Narrative | [unit12/e-Portfolio.md](unit12/e-Portfolio.pdf) |
 
 ---
 
