@@ -24,7 +24,7 @@ Each unit folder contains original work, tutor feedback, and supporting evidence
 | `/unit04_05/` | Privacy case study + Survey misuse reflections (Cambridge Analytica, TikTok, Google Street View) |
 | `/unit07_09/` | Inferential statistics, data visualisation, and validity worksheets |
 | `/unit11/` | Professional Skills Matrix, SWOT analysis, and SMART Action Plan |
-| `/unit12/` | Self Test Quiz ,Final Reflective Piece (PDF) and compiled e-Portfolio |
+| `/unit12/` | Self Test Quiz and e-Portfolio |
 
 ---
 
