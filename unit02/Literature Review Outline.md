@@ -17,7 +17,6 @@ Through the **e-Portfolio activity**, I also drafted the core structure of my pr
 ---
 
 ## 3. Literature Review Outline Summary
-My full outline is available here → [Literature Review Outline.md](Literature%20Review%20Outline.md)
 
 **Key Highlights:**
 - **Aim:** To critically evaluate key security risks associated with cloud computing in the higher education sector.  
