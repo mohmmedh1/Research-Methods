@@ -1,66 +1,44 @@
-# Research Methods & Professional Practice (RMPP_PCOM7E) – MSc Cyber Security
-**Author:** Mohammed Ali Harahsheh  
-**Institution:** University of Essex Online  
+# 📚 **Research Methods and Professional Practice – e-Portfolio Index**
+
+This repository documents my full academic progression through the **Research Methods & Professional Practice (RMPP_PCOM7E)** module as part of the **MSc Cyber Security** programme at the **University of Essex Online**.
+
+Each unit folder contains original artefacts, seminar reflections, tutor feedback, and evidence demonstrating how theory translates into research competence and professional growth.
+
+---
+
+| Unit | Title / Focus | Evidence | Key Learning |
+|------|----------------|-----------|---------------|
+| **1** | Introduction to Research Methods, Ethics & Reasoning | [U1.md](unit01/U1.md)  / [Initial Post](unit01/Initial%20Post.jpg) / [Summary Post](unit01/Summary%20Post.jpg) / [Reasoning Quiz](unit01/Reasoning%20Quiz.jpg) | Differentiated inductive & deductive reasoning; applied Menlo Report ethics to AI in research; selected topic: *Cloud security risks in a sector of your choice.* |
+| **2** | Research Questions, Literature Review & Research Proposal | [Literature Review Outline](unit02/Literature%20Review%20Outline.md) | Developed research aim, formulated research questions, and structured a literature review aligned with the topic *Cloud security risks in the higher education sector.* |
+| **2–3** | Literature Review Planning & Outline | [Literature Review Outline](unit02_03/Literature%20Review%20Outline.md) | Developed search strategy, critical reading framework, and academic referencing discipline. |
+| **4–5** | Ethics, Questionnaires & Data Collection | [Privacy Case Study](unit04_05/Privcy%20case%20study%20.md) / [Questionnaire Analysis Critique](unit04_05/Questionnaire%20Analysis%20Critique%20...md) / [Questionnaires](unit04_05/Questionnaires.md) | Evaluated ethical implications of data collection and reliability of research instruments. |
+| **6** | Research Standards and Data Integrity | [U6 Evidence](unit06/U6_evidence_Security_Standards.md) | Applied ISO 27001/BS EN standards to ensure validity and reliability of research data. |
+| **7–9** | Quantitative Analysis & Hypothesis Testing | [Unit7 – Inferential Statistics](unit07_09/Unit7_Inferential_Statistics_and_....docx) / [Unit8 – Data Visualisation](unit07_09/Unit8_Data_Analysis_and_Visual....docx) / [Unit9 – Validity & Generalisability](unit07_09/Unit9_Validity_and_Generalisabi....docx) | Conducted hypothesis testing, correlation, and validity analysis using Excel/SPSS. |
+| **10** | Research Proposal Draft & Feedback | [U10 Evidence](unit10/U10.md) | Designed research proposal structure and refined based on formative feedback. |
+| **11** | Professional Skills Matrix, SWOT & Action Plan | [Professional Skills Matrix](unit11/Professional%20Skills%20Matrix.pdf) | Reflected on personal development, mapped BCS attributes, and defined SMART goals. |
+| **12** | Final Reflection & e-Portfolio Narrative | [Final e-Portfolio Narrative](unit12/e-Portfolio.md) / [Self-Test Quiz](unit12/Self%20Test%20Quiz.jpg) | Synthesised module learning, linked professional reflection with academic growth. |
+
+---
+
+### 🧭 Quick Navigation Tips
+- Click any **file name** to open it directly in GitHub.  
+- Each Unit folder includes artefacts and reflections.  
+- Use in-document navigation (← Previous / Next →) for seamless review.  
+
+---
+
+### 🧠 Core Competencies Developed
+- **Ethical Governance:** Applied BCS & ACM codes in AI-driven cybersecurity research.  
+- **Methodological Rigor:** Designed, analysed, and critiqued research methods with validity assurance.  
+- **Quantitative Proficiency:** Performed descriptive and inferential statistical testing.  
+- **Reflective Practice:** Applied Rolfe’s (2001) model for continuous professional learning.  
+- **Research Impact:** Developed actionable insights on *cloud security risks* within higher education.  
+
+---
+
+**Author:** *Mohammed Ali Harahsheh*  
 **Programme:** MSc Cyber Security  
-**Module:** Research Methods and Professional Practice  
- 
+**Module:** Research Methods & Professional Practice (RMPP_PCOM7E)  
+**Institution:** University of Essex Online  
 
 ---
-
-## 🎯 Purpose
-This repository consolidates all e-Portfolio artefacts from Units 1–12.  
-It demonstrates my progression from understanding foundational ethics to applying quantitative research, critical analysis, and professional reflection within cybersecurity contexts.
-
-Each unit folder contains original work, tutor feedback, and supporting evidence aligned with the module learning outcomes.
-
----
-
-## 📂 Folder Overview Evidence
-📚 Research Methods and Professional Practice – e-Portfolio Navigation
-
-This table provides direct access to every artefact across Units 1–12.  
-Each link opens the corresponding Markdown or uploaded evidence file in this repository.
-
-| Unit | Title / Activity | Link |
-|------|------------------|------|
-| **1** | Initial Ethical Discussion – Summary Post | [unit01/Summary Post.jpg](unit01/Summary%20Post.jpg) |
-|  | Initial Post | [unit01/Initial Post.jpg](unit01/Initial%20Post.jpg) |
-|  | Peer Reply Initial Post | [unit01/Peer reply Initial Post.jpg](unit01/Peer%20reply%20Initial%20Post.jpg) |
-| **2–3** | Literature Review Outline | [unit02_03/Literature Review Outline.md](unit02_03/Literature%20Review%20Outline.md) |
-| **4–5** | Literature Review Outline (image evidence) | [unit04_05/Literature Review Outline.jpg](unit04_05/Literature%20Review%20Outline.jpg) |
-|  | Privacy Case Study | [unit04_05/Privcy case study .md](unit04_05/Privcy%20case%20study%20.md) |
-|  | Questionnaire Analysis Critique | [unit04_05/Questionnaire Analysis Critique ...md](unit04_05/Questionnaire%20Analysis%20Critique%20...md) |
-|  | Questionnaires | [unit04_05/Questionnaires.md](unit04_05/Questionnaires.md) |
-| **7–9** | Unit 7 – Inferential Statistics and Hypothesis Testing | [unit07_09/Unit7_Inferential_Statistics_and_....docx](unit07_09/Unit7_Inferential_Statistics_and_....docx) |
-|  | Unit 8 – Data Analysis and Visualisation | [unit07_09/Unit8_Data_Analysis_and_Visual....docx](unit07_09/Unit8_Data_Analysis_and_Visual....docx) |
-|  | Unit 9 – Validity and Generalisability | [unit07_09/Unit9_Validity_and_Generalisabi....docx](unit07_09/Unit9_Validity_and_Generalisabi....docx) |
-| **11** | Professional Skills Matrix + SWOT + Action Plan | [unit11/Professional Skills Matrix.pdf](unit11/Professional%20Skills%20Matrix.pdf) |
-| **12** | Self-Test Quiz (Screenshot Evidence) | [unit12/Self Test Quiz.jpg](unit12/Self%20Test%20Quiz.jpg) |
-|  | Final e-Portfolio Narrative | [unit12/e-Portfolio.md](unit12/e-Portfolio.pdf) |
-
----
-
-### 🔗 Quick Navigation Tips
-- Click any file name to open it directly in GitHub.
-- Use your browser’s **Back** button to return to this index.
-- Each Unit file contains local cross-links (← Previous / Next →) for sequential navigation.
-
----
-
-
-
-
----
-
-## 🧠 Key Learning Outcomes
-- **Ethical Governance:** Applied ACM & BCS codes to cybersecurity research.  
-- **Methodological Rigor:** Designed and critiqued research methods for cloud-security studies.  
-- **Quantitative Competence:** Performed t-tests, chi-square, and validity analysis in Excel/SPSS.  
-- **Professional Reflection:** Integrated Rolfe’s (2001) reflective model and BCS attributes.  
-- **Lifelong Learning:** Established SMART goals for CISSP, Python automation, and publication.
-
----
-
-## 🔗 Evidence References
-Examples of cross-referencing within documents: check all Folders
-
